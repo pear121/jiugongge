@@ -1,0 +1,16 @@
+.jiu{
+    /*width: 1000px;*/
+    height: auto;
+    background-color: white;
+    text-align: center;
+    overflow: hidden;
+}
+.gong{
+    width: 31%;
+    /*height: 30%;*/
+    background-color: yellow;
+    padding-bottom: 31%;
+    margin: 1%;
+    float: left;
+    border-radius: 1%;
+}
